@@ -1,0 +1,23 @@
+{
+  "name": "gulp_branch",
+  "description": "gulp compilier",
+  "main": "index.js",
+  "authors": [
+    "gameisch gameisch@gmail.com"
+  ],
+  "license": "ISC",
+  "homepage": "",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "normalize.css": "*",
+    "jquery": "3.*",
+    "swiper": "^4.2.2"
+  }
+}
